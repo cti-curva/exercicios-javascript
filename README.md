@@ -20,17 +20,18 @@ dúvidas, enviar email para cti@curva.digital
 
 ## Setup
 
-Primeiro faça o clone do projeto para sua máquina e crie uma branch com as seguintes
+Primeiro faça um clone ou fork do projeto para sua máquina e crie uma branch com as seguintes
 características:
 
 - Nome da branch: seunome_curva_test Ex.: joao_amorim_curva_test
 
+```shell
+$ git clone https://github.com/cti-curva/exercicios-javascript.git
+$ cd exercicios-javascript
+$ git checkout -b seu_nome_curva_test
+# Faça sua implementação
 ```
-$ git clone curva_exercicios@github.com
-$ cd curva_exercicios
-$ git checkout -b meunome_curva_test
-```
-
+Quando você terminar, suba seus commits NA SUA BRANCH. 
 ### Verificando o setup
 
 Se tudo correu bem, vc poderá rodar o seguinte comando na pasta principal do
