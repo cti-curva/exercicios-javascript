@@ -254,4 +254,4 @@ false
 
 Seria interessante você escrever algumas dessas funções de forma recursiva. 
 
-# A qualquer sinal de plágio, o candidate será automaticamente desclassificado do processo.
+# A qualquer sinal de plágio, o candidato será automaticamente desclassificado do processo.
