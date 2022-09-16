@@ -31,7 +31,8 @@ $ cd exercicios-javascript
 $ git checkout -b seu_nome
 # Faça sua implementação
 ```
-Quando você terminar, suba seus commits NA SUA BRANCH.
+Quando você terminar, suba seus commits NA SUA BRANCH e envie um Email para cti@curva.digital 
+comentando sobre suas dificuldades com relação ao teste.
  
 ```
 $ git push origin seu_nome
